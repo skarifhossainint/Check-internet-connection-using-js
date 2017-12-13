@@ -1,3 +1,3 @@
 # check internet connectivity 
-# ok
-# pl
+ Using navigator
+ 
